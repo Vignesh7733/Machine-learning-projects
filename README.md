@@ -1,15 +1,15 @@
 ## Project Name
-Euro 2024 Player's Market Value Prediction
+Online Sales Analysis and Prediction 
 ## Tool
 Jupyter Notebook  
 ## Programming Language
 Python
 ## Machine Learning Model
-AdaBoost Regressor
+Random Forest Classifier
 ## Libraries Used
 Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly
 ## Evaluation Metrics
-MSE, R² Score
+Accuracy Score, Confusion Matrix
 
-## Project Description 
-This project aims to analyze and predict the market values of football players participating in Euro 2024 using machine learning. The dataset includes player attributes such as age, position, club, height, caps, goals, and nationality. Key steps include data cleaning, exploratory analysis, normalization, and training an AdaBoost Regressor model to predict market values. The project also visualizes trends, such as country-wise average market values, to derive actionable insights.
+## Project Description
+This project focuses on analyzing online sales data using machine learning techniques, particularly classification using the Random Forest algorithm. The goal is to uncover patterns in sales, predict key sales trends, and understand customer purchasing behavior based on various attributes such as product category, region, and payment method.
