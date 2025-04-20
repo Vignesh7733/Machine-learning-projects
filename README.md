@@ -1,15 +1,15 @@
 ## Project Name
-Online Sales Analysis and Prediction 
+Smoker or Non-Smoker Classification
 ## Tool
 Jupyter Notebook  
 ## Programming Language
 Python
 ## Machine Learning Model
-Random Forest Classifier
+Logistic Regression 
 ## Libraries Used
 Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly
 ## Evaluation Metrics
 Accuracy Score, Confusion Matrix
 
 ## Project Description
-This project focuses on analyzing online sales data using machine learning techniques, particularly classification using the Random Forest algorithm. The goal is to uncover patterns in sales, predict key sales trends, and understand customer purchasing behavior based on various attributes such as product category, region, and payment method.
+This project aims to classify individuals as smokers or non-smokers based on health insurance data. The dataset includes features such as age, sex, BMI, number of children, region, insurance charges, and smoking status. Through exploratory data analysis (EDA), correlation studies, and logistic regression modeling, the project identifies patterns and predictors associated with smoking behavior to build a predictive classification model.  
