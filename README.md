@@ -1,15 +1,15 @@
 ## Project Name
-Gender Prediction from Personal Preferences
+Gold Stock Price Prediction
 ## Tool
 Jupyter Notebook  
 ## Programming Language
 Python
 ## Machine Learning Model
-Support Vector Machine (SVM)
+Linear Regression
 ## Libraries Used
 Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly
 ## Evaluation Metrics
-Accuracy Score, Confusion Matrix
+MSE, R-squared
 
 ## Project Description
-This project focuses on preparing and analyzing a dataset of user preferences (Favorite Color, Music Genre, Beverage, Soft Drink, and Gender) to transform categorical data into numerical formats suitable for machine learning models like Support Vector Machines (SVM). The notebook includes exploratory data analysis (EDA), data preprocessing, and visualization.
+This project aims to predict gold stock prices using historical data and linear regression. The dataset includes daily stock metrics (Open, Close, High, Low, Volume) from 2014 to 2024. Key steps include data preprocessing, feature engineering (splitting dates into Day/Month/Year), correlation analysis, and model development to identify relationships between stock metrics and future prices.
