@@ -1,15 +1,15 @@
 ## Project Name
-Smoker or Non-Smoker Classification
+Gender Prediction from Personal Preferences
 ## Tool
 Jupyter Notebook  
 ## Programming Language
 Python
 ## Machine Learning Model
-Logistic Regression 
+Support Vector Machine (SVM)
 ## Libraries Used
 Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly
 ## Evaluation Metrics
 Accuracy Score, Confusion Matrix
 
 ## Project Description
-This project aims to classify individuals as smokers or non-smokers based on health insurance data. The dataset includes features such as age, sex, BMI, number of children, region, insurance charges, and smoking status. Through exploratory data analysis (EDA), correlation studies, and logistic regression modeling, the project identifies patterns and predictors associated with smoking behavior to build a predictive classification model.  
+This project focuses on preparing and analyzing a dataset of user preferences (Favorite Color, Music Genre, Beverage, Soft Drink, and Gender) to transform categorical data into numerical formats suitable for machine learning models like Support Vector Machines (SVM). The notebook includes exploratory data analysis (EDA), data preprocessing, and visualization.
